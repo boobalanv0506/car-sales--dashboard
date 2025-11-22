@@ -42,7 +42,7 @@ To build an interactive Power BI dashboard that provides clear insights into car
 - Certain body styles and colors are consistently more popular with buyers.
 - Sales activity is stronger in specific dealer regions compared to others.
 - Company-wise breakdown shows that a few brands contribute most of the total sales.
-- 
+
 ## conclusion
 
 - The dashboard gives a clear and complete picture of overall car sales performance.
