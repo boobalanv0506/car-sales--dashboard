@@ -1,4 +1,4 @@
-# Car-Sales-Dashboard-Report
+# Car-Sales-Dashboard-Report(Power BI)
 ## Project Objective
 To build an interactive Power BI dashboard that provides clear insights into car sales performance across models, regions, and time periods.To help stakeholders track key KPIs, identify sales trends, and evaluate top- and low-performing segments. To enable data-driven decision-making that improves sales strategies, boosts profitability, and supports business growth.
 
@@ -32,8 +32,9 @@ To build an interactive Power BI dashboard that provides clear insights into car
 -  It highlights key differences between current performance and the previous year.
 - Charts visually explain sales patterns by week, body style, color, and dealer region.
 - Detailed and company-wise grids give complete visibility into every car sale
-  ## Dashboard
-  
+- 
+## Dashboard
+ ![Uploading car_sales_report.png…](https://github.com/boobalanv0506/car-sales--dashboard/blob/main/car_sales_report.png)
 
 ## Insights
 
